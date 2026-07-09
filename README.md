@@ -1,6 +1,9 @@
 # E-Commerce Product Multi-Filter Sidebar (MERN Stack)
 
+![ApexMarket UI Preview](./ui_preview.jpg)
+
 This repository houses the complete solution for the **E-Commerce Product Multi-Filter Sidebar** application. The solution is engineered as a full-stack MERN application focusing on server-side computation, interactive user feedback, and premium visual aesthetics.
+
 
 ---
 
